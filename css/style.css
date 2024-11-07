@@ -84,7 +84,7 @@ header{
     inset -.1em -.3em 1em purple;
 }
 .question-box{
-    height:85%;
+    height:auto;
     width: 45%;
     border-bottom: 17px solid purple;
     border-top: 13px solid purple;
@@ -222,7 +222,7 @@ button:hover{
     }
     .question-box{
         width: 89%;
-        height:53%;
+        height:auto;
         padding: 13px;
         font-size: small;
 
